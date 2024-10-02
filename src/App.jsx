@@ -2,17 +2,12 @@ import { useState } from 'react'
 
 
 import './App.css'
+import Layout from './components/Layout/Layout'
 
 function App() {
  
   return (
-    <>
-    <h1>helool</h1>
-    <h3>heeloo</h3>
-    
-    </>
-
-
+   <Layout/>
   )
 }
 
